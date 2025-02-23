@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since :- 2023<br>📚 I'm currently learning : -  Opencv <br>🎯 Goals : - to create awesome projects<br>🎲 Fun fact : - not very good at coding  but still trying.</p>
+<p align="left">✨ Creating bugs since :- 2023<br>📚 I'm currently learning : -  Opencv , Networking , Machine Learning and other Cybersecurity fundamentals <br>🎯 Goals : - to create awesome projects<br>🎲 Fun fact : - not very good at coding  but still trying.</p>
 
 ###
 
