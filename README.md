@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since :- 2023<br>📚 I'm currently learning : -  Opencv , Networking , Machine Learning and other Cybersecurity fundamentals <br>🎯 Goals : - to create awesome projects<br>🎲 Fun fact : - not very good at coding  but still trying.</p>
+<p align="left">✨ Creating bugs since :- 2023<br>📚 I'm currently learning : - Opencv , Networking , Machine Learning and other Cybersecurity fundamentals<br>🎯 Goals : - to create awesome projects<br>🎲 Fun fact : - not very good at coding but still trying.</p>
 
 ###
 
@@ -19,11 +19,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
